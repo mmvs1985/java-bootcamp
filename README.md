@@ -191,25 +191,21 @@ Commit your practice code, whatever you have accomplished.
 # Topic 2: Services
 
 ## Reading:
-1. [How to create services in Java](https://web.archive.org/web/20160414080344/http://www.makinggoodsoftware.com/2009/11/17/how-to-create-services-in-java/)
+1. [How to design a good API and why it matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 
-2. [How to design a good API and why it matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
-
-3. [Introduction to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
+2. [Introduction to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
 
 ## Practice:
 
-1. Create a shopping cart API spec
-2. Implement the previous shopping cart.
-3. Document services.
-4. Design a UserService for CRUD operations.
-5. Implement and document previous UserService.
-
-Note: Do not implement JPA or ORM. Services should return in memory data only.
+1. Create a shopping cart API spec by:
+ 1.1 Using GET, POST, PUT and DELETE HTTP methods
+ 1.2 Defining the URL for each request
+ 1.3 Defining the corresponding headers
+ 1.4 Defining the corresponding payload for each request and response
 
 ## Commit:
 
-Commit your practice code, whatever you have accomplished.
+Commit your practice code (just a single text file with the design)
 
 → [index](#index)
 
