@@ -212,11 +212,11 @@ Commit your practice results (just a single text file with the design)
 # Topic 3: Unit Testing
 
 ## Reading:
-1. [Benefits of Unit Testing] (https://dzone.com/articles/top-8-benefits-of-unit-testing)
-2. JUnit (https://junit.org/junit4/cookbook.html)
-3. Mockito (https://site.mockito.org/)
-  i. [Difference Between Mocks and Stubs] (https://martinfowler.com/articles/mocksArentStubs.html)
-4. [Optional, good to know its existence though] [Test Driven Development](http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/)
+1. [Benefits of Unit Testing](https://dzone.com/articles/top-8-benefits-of-unit-testing)
+2. [JUnit](https://junit.org/junit4/cookbook.html)
+3. [Mockito](https://site.mockito.org/)
+4. [Difference Between Mocks and Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
+5. [Optional, good to know its existence though] [Test Driven Development](http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/)
 
 ## Practice:
 
@@ -233,7 +233,7 @@ Commit your practice code, whatever you have accomplished.
 
 ## Reading:
 1. [MySql basis](http://www.vogella.com/tutorials/MySQL/article.html)
-2. [SQL Joins] (https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
+2. [SQL Joins](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/)
 3. [Jdbc basis](http://www.vogella.com/tutorials/MySQLJava/article.html#jdbc)
 
 ## Extra documentation:
