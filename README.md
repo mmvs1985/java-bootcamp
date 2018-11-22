@@ -285,11 +285,16 @@ Commit your practice code, whatever you have accomplished.
 # Topic 5: Spring (Core, Boot) and Swagger
 
 ## Reading:
-1. [Quick development guide](https://spring.io/guides/gs/rest-service/)
 
-2. [Spring boot - rest services guide](http://spring.io/guides/tutorials/bookmarks/)
+1. [Spring Framework Fundamentals](https://www.journaldev.com/2888/spring-tutorial-spring-core-tutorial)
 
-3. [REST API documentation with Swagger](http://swagger.io/getting-started/)
+2. [Spring Framework Projects](https://www.baeldung.com/org-springframework)
+
+3. [Spring Boot Introduction](https://www.baeldung.com/spring-boot-start)
+
+4. [Building Rest Services With Spring - Practical Tutorial](http://spring.io/guides/tutorials/bookmarks/)
+
+5. [REST API documentation with Swagger](http://swagger.io/getting-started/)
   
 ## Practice: 
 
