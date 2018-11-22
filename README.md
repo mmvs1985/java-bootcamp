@@ -212,8 +212,10 @@ Commit your practice results (just a single text file with the design)
 # Topic 3: Unit Testing
 
 ## Reading:
-1. JUnit (https://junit.org/junit4/cookbook.html)
-2. [Optional, good to know its existence though] [Test Driven Development](http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/)
+1. Benefits of Unit Testing (https://dzone.com/articles/top-8-benefits-of-unit-testing)
+2. JUnit (https://junit.org/junit4/cookbook.html)
+3. Mockito (https://site.mockito.org/)
+4. [Optional, good to know its existence though] [Test Driven Development](http://technologyconversations.com/2013/12/24/test-driven-development-tdd-best-practices-using-java-examples-2/)
 
 ## Practice:
 
