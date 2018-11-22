@@ -195,13 +195,12 @@ Commit your practice code, whatever you have accomplished.
 
 2. [Introduction to REST](https://www.youtube.com/watch?v=YCcAE2SCQ6k)
 
-## Practice:
+## Practice: create a shopping cart API spec by
 
-1. Create a shopping cart API spec by:
  1. Using GET, POST, PUT and DELETE HTTP methods
- 1. Defining the URL for each request
- 1. Defining the corresponding headers
- 1. Defining the corresponding payload for each request and response
+ 2. Defining the URL for each request
+ 3. Defining the corresponding headers
+ 4. Defining the corresponding payload for each request and response
 
 ## Commit:
 
