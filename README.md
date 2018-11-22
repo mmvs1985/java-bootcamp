@@ -198,14 +198,14 @@ Commit your practice code, whatever you have accomplished.
 ## Practice:
 
 1. Create a shopping cart API spec by:
- 1.1 Using GET, POST, PUT and DELETE HTTP methods
- 1.2 Defining the URL for each request
- 1.3 Defining the corresponding headers
- 1.4 Defining the corresponding payload for each request and response
+ 1. Using GET, POST, PUT and DELETE HTTP methods
+ 1. Defining the URL for each request
+ 1. Defining the corresponding headers
+ 1. Defining the corresponding payload for each request and response
 
 ## Commit:
 
-Commit your practice code (just a single text file with the design)
+Commit your practice results (just a single text file with the design)
 
 → [index](#index)
 
