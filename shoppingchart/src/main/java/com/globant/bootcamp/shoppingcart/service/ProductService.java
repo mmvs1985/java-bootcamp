@@ -1,7 +1,7 @@
-package com.globant.bootcamp.shoppingchart.service;
+package com.globant.bootcamp.shoppingcart.service;
 
-import com.globant.bootcamp.shoppingchart.persistence.model.Product;
-import com.globant.bootcamp.shoppingchart.persistence.repository.ProductRepository;
+import com.globant.bootcamp.shoppingcart.persistence.model.Product;
+import com.globant.bootcamp.shoppingcart.persistence.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.globant.bootcamp.shoppingchart.persistence.model;
+package com.globant.bootcamp.shoppingcart.persistence.model;
 
 import javax.persistence.*;
 
@@ -16,6 +16,10 @@ public class Product {
     @Column(name = "name")
     private String name;
 
+    //@Column(name = "Item")
+    /*@ManyToOne
+    private Item item;
+*/
     public Long getId() {
         return id;
     }

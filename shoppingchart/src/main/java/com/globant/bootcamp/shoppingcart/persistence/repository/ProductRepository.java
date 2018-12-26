@@ -1,6 +1,6 @@
-package com.globant.bootcamp.shoppingchart.persistence.repository;
+package com.globant.bootcamp.shoppingcart.persistence.repository;
 
-import com.globant.bootcamp.shoppingchart.persistence.model.Product;
+import com.globant.bootcamp.shoppingcart.persistence.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

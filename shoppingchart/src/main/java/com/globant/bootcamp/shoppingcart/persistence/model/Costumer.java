@@ -1,9 +1,9 @@
-package com.globant.bootcamp.shoppingchart.persistence.model;
+package com.globant.bootcamp.shoppingcart.persistence.model;
 
 import javax.persistence.*;
 
 @Entity
-@Table(name = "persons",
+@Table(name = "costumers",
         uniqueConstraints = @UniqueConstraint(name = "mail_ukey", columnNames = "email"),
         indexes = @Index(name = "email_index", columnList = "email"))
 public class Costumer {

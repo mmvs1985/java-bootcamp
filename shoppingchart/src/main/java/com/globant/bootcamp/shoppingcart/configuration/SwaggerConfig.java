@@ -1,4 +1,4 @@
-package com.globant.bootcamp.shoppingchart.configuration;
+package com.globant.bootcamp.shoppingcart.configuration;
 
 import org.springframework.context.annotation.*;
 import springfox.documentation.builders.PathSelectors;

@@ -1,8 +1,8 @@
-package com.globant.bootcamp.shoppingchart.controller;
+package com.globant.bootcamp.shoppingcart.controller;
 
 
-import com.globant.bootcamp.shoppingchart.persistence.model.Costumer;
-import com.globant.bootcamp.shoppingchart.service.CostumerService;
+import com.globant.bootcamp.shoppingcart.persistence.model.Costumer;
+import com.globant.bootcamp.shoppingcart.service.CostumerService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
