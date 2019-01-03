@@ -1,6 +1,9 @@
 package com.globant.bootcamp.shoppingcart.persistence.model;
 
+import org.hibernate.annotations.IndexColumn;
+
 import javax.persistence.*;
+import java.util.List;
 
 @Entity
 @Table(name = "products",
@@ -16,9 +19,17 @@ public class Product {
     @Column(name = "name")
     private String name;
 
+    @OneToMany(cascade= CascadeType.ALL)
+    @JoinColumn(name="IdProduct")
+
+    private List<Item> items;
     //@Column(name = "Item")
     /*@ManyToOne
     private Item item;
+
+@ManyToOne
+13:     @JoinColumn(name="IdProfesor")
+14:     private Profesor profesor;
 */
     public Long getId() {
         return id;

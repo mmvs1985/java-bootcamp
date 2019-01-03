@@ -13,8 +13,12 @@ public class Costumer {
     @Column
     private Long id;
 
+    @OneToOne
+    private Cart cart;
+
     @Column(name = "email")
     private String email;
+
     @Column(name = "first_name")
     private String firstName;
     @Column(name = "last_name")
